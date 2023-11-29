@@ -8,7 +8,7 @@ If you have a project you think I can help you with don't hesitate to tell me ab
 
 - 🔭 I’m currently working on:
   - 🚌 [BusesUY](https://buses.uy/): A search engine for medium & long distance bus lines in Uruguay.
-  - 🌳 [Arbolado Urbano](https://arboladourbano.com): An interactive web tool for exploring data gather from different census about city trees.
+  - 🌳 [Arbolado Urbano](https://arboladourbano.com): An interactive web tool for exploring data gathered from different census about city trees.
   - 🧻 [Papelapp](https://papelapp.ares.uy): An app for figuring out the cost per meter of toilet paper rolls.
   - 👂 [Écouter](https://github.com/ferares/ecouter): A web site for language teachers and students to access the accompanying audio tracks from their text books with ease.
   - 📸 [Postales](https://github.com/ferares/random-pictures): A collaborative API for uploading and then accessing photos of sceneries tagged with their corresponding locations and photographers. 
