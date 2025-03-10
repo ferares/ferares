@@ -1,6 +1,6 @@
 Hey there 👋
 
-I'm Fermín, a Freelance Software Developer working from La Paloma, Uruguay 🏖️
+I'm Fermín, a Freelance Software Developer working from La Paloma, Uruguay 🏖️ (UTC -03:00)
 
 Most of my experience is in web development working on both simple projects like landing pages and complex ones like web apps, e-commerce sites, blogs, etc. I’ve worked both alone and with teams for different companies, and I have plenty of experience working remotely.
 
@@ -17,3 +17,5 @@ If you have a project you think I can help you with don't hesitate to tell me ab
  - 🌱 I’m currently learning:
    - :accessibility: Web Accessibility: Been learning for a while and I'm currently starting to work with it on real life projects.
    - 🦀 Rust: Just wanting to know what all the fuzz is about, looking to rewrite my "Postales" project using it.
+
+You can learn more about me on my website: [ares.uy](https://ares.uy)
